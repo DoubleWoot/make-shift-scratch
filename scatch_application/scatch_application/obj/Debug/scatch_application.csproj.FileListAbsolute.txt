@@ -1,0 +1,10 @@
+C:\Users\ronja\source\repos\scatch_application\scatch_application\bin\Debug\scatch_application.exe.config
+C:\Users\ronja\source\repos\scatch_application\scatch_application\bin\Debug\scatch_application.exe
+C:\Users\ronja\source\repos\scatch_application\scatch_application\bin\Debug\scatch_application.pdb
+C:\Users\ronja\source\repos\scatch_application\scatch_application\obj\Debug\scatch_application.csproj.AssemblyReference.cache
+C:\Users\ronja\source\repos\scatch_application\scatch_application\obj\Debug\scatch_application.Form1.resources
+C:\Users\ronja\source\repos\scatch_application\scatch_application\obj\Debug\scatch_application.Properties.Resources.resources
+C:\Users\ronja\source\repos\scatch_application\scatch_application\obj\Debug\scatch_application.csproj.GenerateResource.cache
+C:\Users\ronja\source\repos\scatch_application\scatch_application\obj\Debug\scatch_application.csproj.CoreCompileInputs.cache
+C:\Users\ronja\source\repos\scatch_application\scatch_application\obj\Debug\scatch_application.exe
+C:\Users\ronja\source\repos\scatch_application\scatch_application\obj\Debug\scatch_application.pdb
